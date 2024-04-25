@@ -721,10 +721,8 @@ footer p {
 #erroe{
   color: #ff0000;
   padding: 10px;
-  border-radius: 5px;
   word-wrap: break-word;
   width: 400px;
-  text-align: center;
   margin: 0 auto;
 }
 .normal{
